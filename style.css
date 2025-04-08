@@ -1,0 +1,29 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #fdfcfa;
+  color: #222;
+  line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+  background-color: #c8d8e4;
+  padding: 2rem 1rem;
+  text-align: center;
+  color: #00334e;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+}
+
+header p
