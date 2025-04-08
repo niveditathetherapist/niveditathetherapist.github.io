@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Nivedita | The Chaotic Therapist</title>
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="I'm Nivedita, a psychologist creating a safe, chaotic, and healing space for your growth and well-being.">
+  <meta name="keywords" content="psychologist, therapist, mental health, online therapy, Nivedita, wellness">
+  <meta name="author" content="Nivedita The Therapist">
+
+  <!-- Social Meta Tags (optional but good) -->
+  <meta property="og:title" content="Nivedita | The Chaotic Therapist">
+  <meta property="og:description" content="Helping you navigate your chaos with compassion and clarity.">
+  <meta property="og:url" content="https://niveditathetherapist.github.io/">
+  <meta property="og:type" content="website">
+  
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- Favicon (optional) -->
+  <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
+
+</head>
+<body>
+  <div class="container">
+    <h1>Hello, I'm Nivedita 🌻</h1>
+    <p>Welcome to <strong>The Chaotic Therapist</strong> — a space where your mess is welcome, your emotions are valid, and your healing matters.</p>
+    
+    <h2>What I Offer</h2>
+    <ul>
+      <li>✨ One-on-one online therapy</li>
+      <li>💬 Emotional wellness coaching</li>
+      <li>📚 Mental health resources</li>
+    </ul>
+
+    <h2>Let’s Connect</h2>
+    <p>📧 Email: <a href="mailto:nivetherapist@gmail.com">nivetherapist@gmail.com</a></p>
+    <p>📸 Instagram: <a href="https://instagram.com/nivethechaotictherapist" target="_blank">@nivethechaotictherapist</a></p>
+  </div>
+</body>
+</html>
