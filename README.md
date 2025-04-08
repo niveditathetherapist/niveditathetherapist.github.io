@@ -10,7 +10,7 @@
   <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Nivedita – The Chaotic Therapist</title>
+  <title>The Chaotic Therapist</title>
   <meta name="description" content="Counseling, psychotherapy, and mental health support by Nivedita, a licensed therapist. Book sessions online.">
   <meta name="keywords" content="therapist, counseling, psychotherapy, support groups, mental health, online therapy, India, Mumbai">
   <meta name="author" content="Nivedita" />
